@@ -1,5 +1,8 @@
 ```python
 
+# 需要安装pygal
+# pip install pygal
+
 import requests
 import pygal
 from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
